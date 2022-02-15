@@ -5205,6 +5205,7 @@ Michael Wong
 - [Harsh Rajak](https://github.com/AkhilMReji)
 - [Cauã Tavares](https://github.com/CauanGx)
 - [Marshall Schmutz](https://github.com/mars-schmutz)
+- [mansz](https://github.com/mansz81)
 - [Creberus] (https://github.com/Creberus)
 - [Rahul Singh Karki]
 - <!-- prettier-ignore-end -->
